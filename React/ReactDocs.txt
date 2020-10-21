@@ -37,3 +37,48 @@ React Folder Structure:
 	2.index.css and app.css: for styling the respective page.
 	
 	3.serviceWorker.js: for PWA.
+	
+	
+React Component:
+
+	describes a part of the user interface.
+	
+	building block of react application.
+	
+	they are reusable and can be nested inside other components.
+	
+	A.stateless functional components
+	B.statefull class components
+
+Functional Components:
+
+	 javascript function
+	 
+	 properties(props)-->javascript function-->HTML(JSX)
+	 
+
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
