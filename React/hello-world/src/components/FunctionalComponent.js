@@ -1,6 +1,6 @@
 import React from 'react'
 
-function FunctionalComponent() {
+const FunctionalComponent = () => {
   return <h1>Hello, User</h1>
 }
 

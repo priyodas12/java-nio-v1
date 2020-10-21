@@ -6,7 +6,7 @@ import SayHello from './components/FunctionalComponent'
 function App() {
   return (
     <div className="App">
-      <SayHello></SayHello>
+      <SayHello />
     </div>
   );
 }
