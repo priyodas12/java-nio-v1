@@ -1,7 +1,7 @@
 import React from 'react'
 
-const FunctionalComponent = () => {
+export const FunctionalComponent = () => {
   return <h1>Hello, User</h1>
 }
-
-export default FunctionalComponent
+// to disable named export uncomment below
+// export default FunctionalComponent
