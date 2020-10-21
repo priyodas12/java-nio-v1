@@ -16,8 +16,8 @@ function App() {
       <FunctionalComponent />
       <ClassComponent />
       <Jsxelement ></Jsxelement>
-      <PropsDemo name='abc' />
-      <PropsDemo name='dec' />
+      <PropsDemo name='abc' date='12-12-2018' />
+      <PropsDemo name='dec' date='23-02-2009' />
     </div>
   );
 }
