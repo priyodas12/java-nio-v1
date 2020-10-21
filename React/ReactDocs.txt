@@ -60,7 +60,15 @@ Class COmponent:
 	
 	ES6 class
 	
-	should have a render method.
+	should have a render method
+
+JSX:
+	javascript XML-Extension to the Javascript language syntax.
+	
+	write XML-like code for elements and components
+	
+	JAX tags have a tag name,attribute and children.
+	
 	 
 	
 	 

@@ -5,7 +5,7 @@ import './App.css';
 import { FunctionalComponent } from './components/FunctionalComponent'
 //for generic case we can mention any name
 //import SayHello from './components/FunctionalComponent'
-
+import { Jsxelement } from './components/JSXElement'
 import ClassComponent from './components/ClassComponent'
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
       {/*<SayHello />*/}
       <FunctionalComponent />
       <ClassComponent />
+      <Jsxelement ></Jsxelement>
     </div>
   );
 }
