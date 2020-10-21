@@ -56,7 +56,13 @@ Functional Components:
 	 
 	 properties(props)-->javascript function-->HTML(JSX)
 	 
-
+Class COmponent:
+	
+	ES6 class
+	
+	should have a render method.
+	 
+	
 	 
 	 
 	
