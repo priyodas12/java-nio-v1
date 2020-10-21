@@ -7,6 +7,7 @@ import { FunctionalComponent } from './components/FunctionalComponent'
 //import SayHello from './components/FunctionalComponent'
 import { Jsxelement } from './components/JSXElement'
 import ClassComponent from './components/ClassComponent'
+import { PropsDemo } from './components/PropsDemo'
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <FunctionalComponent />
       <ClassComponent />
       <Jsxelement ></Jsxelement>
+      <PropsDemo name='abc' />
+      <PropsDemo name='dec' />
     </div>
   );
 }
